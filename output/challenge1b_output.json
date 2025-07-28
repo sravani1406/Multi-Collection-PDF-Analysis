@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processed_at": "2025-07-28 22:00:35"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - History.pdf",
+      "page": 10,
+      "section_title": "Page 10",
+      "importance_rank": 0.17092666029930115,
+      "refined_text": "Montpellier: A University City with Medieval Charm \nMontpellier, founded in the 10th century, is known for its prestigious university and vibrant \ncultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern \narchitecture. \nKey Historical Sites in Montpellier \n\u2022 \nPlace de la Com\u00e9die: The central square of Montpellier, this bustling area is \nsurrounded by cafes, shops, and the impressive Op\u00e9ra Com\u00e9die. It is a great place to \nstart exploring the city. \n\u2022 \nSaint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its \nimposing facade and twin towers. It is the seat of the Archdiocese of Montpellier. \n\u2022 \nPromenade du Peyrou: This 17th-century promenade o\ufb00ers stunning views of the city \nand features the Arc de Triomphe and the Ch\u00e2teau d'Eau, a beautiful water tower. \n\u2022 \nMus\u00e9e Fabre: One of the most important art museums in France, the Mus\u00e9e Fabre \nhouses an extensive collection of European paintings, sculptures, and decorative arts. \n\u2022 \nUniversity of Montpellier: Founded in 1289, it is one of the oldest universities in the \nworld and has been a center of learning and culture for centuries. \n\u2022 \nJardin des Plantes: Established in 1593, it is the oldest botanical garden in France and \nwas created for the study of medicinal plants. \n \n \n"
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 10,
+      "section_title": "Page 10",
+      "importance_rank": 0.1318947821855545,
+      "refined_text": "Montpellier: A University City with Medieval Charm \nHistory \nMontpellier, founded in the 10th century, is known for its prestigious university and vibrant \ncultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern \narchitecture. Montpellier has been a center of learning and innovation for centuries, attracting \nscholars and students from around the world. \nKey Attractions \n\u2022 \nPlace de la Com\u00e9die: The central square of Montpellier, this bustling area is \nsurrounded by cafes, shops, and the impressive Op\u00e9ra Com\u00e9die. It is a great place to \nstart exploring the city. \n\u2022 \nSaint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its \nimposing facade and twin towers. It is the seat of the Archdiocese of Montpellier. \n\u2022 \nPromenade du Peyrou: This 17th-century promenade o\ufb00ers stunning views of the city \nand features the Arc de Triomphe and the Ch\u00e2teau d'Eau, a beautiful water tower. \n\u2022 \nMus\u00e9e Fabre: One of the most important art museums in France, the Mus\u00e9e Fabre \nhouses an extensive collection of European paintings, sculptures, and decorative arts. \nStudent Life \n\u2022 \nUniversity Influence: Highlight the vibrant student life and the influence of the \nuniversity on the city's culture. \n\u2022 \nModern Architecture: Mention modern architectural landmarks like the Antigone \ndistrict or the Pierresvives building. \nCultural Highlights \nMontpellier is renowned for its vibrant cultural scene, with numerous theaters, music venues, \nand festivals. The city hosts the Montpellier Dance Festival, which attracts contemporary \ndance companies from around the world. Montpellier's cuisine is also notable, with local \nspecialties such as tielle (a savory pie filled with octopus) and wines from the surrounding \nvineyards. \n \n \n"
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 4,
+      "section_title": "Page 4",
+      "importance_rank": 0.12801820039749146,
+      "refined_text": "Outdoor Activities \nThe diverse landscapes of the South of France o\ufb00er plenty of opportunities for outdoor \nadventures: \nHiking and Biking \n\u2022 \nVerdon Gorge: Known as the \"Grand Canyon of Europe,\" o\ufb00ering spectacular hiking \ntrails. \n\u2022 \nLuberon Regional Park: Explore picturesque villages and rolling hills, famous for \nlavender fields and vineyards. \n\u2022 \nPyrenees National Park: Enjoy challenging hikes and stunning mountain scenery. \n\u2022 \nMercantour National Park: Discover diverse wildlife and beautiful alpine landscapes. \n\u2022 \nCamargue: Explore the unique wetlands on horseback or by bike. \n\u2022 \nMont Ventoux: Challenge yourself with a hike or bike ride up this iconic mountain. \n\u2022 \nGorges du Tarn: Hike through dramatic gorges and enjoy breathtaking views. \nWater Activities \n\u2022 \nArd\u00e8che River: Paddle through the stunning Ard\u00e8che Gorge. \n\u2022 \nDordogne River: Enjoy a leisurely canoe trip, passing by medieval castles and \ncharming villages. \n\u2022 \nUbaye River: Experience white-water rafting for an adrenaline rush. \n\u2022 \nGorges du Verdon: Rent a kayak or paddleboat to explore the turquoise waters. \n\u2022 \nLake Sainte-Croix: Enjoy swimming, sailing, and windsurfing on this beautiful lake. \n\u2022 \nLake Serre-Pon\u00e7on: Try water skiing or wakeboarding on one of the largest artificial \nlakes in Europe. \n\u2022 \nC\u00e9vennes National Park: Go canyoning in the rugged terrain of this beautiful park. \n \n \n"
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 10,
+      "section_title": "Page 10",
+      "importance_rank": 0.1244141235947609,
+      "refined_text": "\u2022 \nMonaco: Explore the Mus\u00e9e Oc\u00e9anographique and its marine exhibits, including a \nshark lagoon and touch tanks. \n\u2022 \nDordogne: See ancient cave paintings at prehistoric sites like Lascaux and Rou\ufb03gnac, \nand visit museums dedicated to prehistoric life. \n\u2022 \nMontpellier: Discover the Planet Ocean World, an aquarium and planetarium with \ninteractive exhibits. \n\u2022 \nCarcassonne: Take a guided tour of the medieval citadel and learn about its history \nand architecture. \n\u2022 \nN\u00eemes: Visit the Roman amphitheater and learn about ancient Roman history. \n\u2022 \nArles: Explore the Roman ruins and the Mus\u00e9e de l'Arles Antique, which showcases \nartifacts from the city's past. \n \n \n"
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 5,
+      "section_title": "Page 5",
+      "importance_rank": 0.12256650626659393,
+      "refined_text": "Culinary Delights \nThe South of France is a food lover's paradise. Here are some activities to indulge in the \nregion's culinary delights: \nWine Tasting \n\u2022 \nProvence: Explore vineyards known for their ros\u00e9 wines. \n\u2022 \nLanguedoc: Discover diverse wines, including reds, whites, and sparkling wines. \n\u2022 \nCh\u00e2teauneuf-du-Pape: Visit this famous wine region near Avignon. \n\u2022 \nBandol: Taste the robust red wines and refreshing ros\u00e9s of this coastal region. \n\u2022 \nC\u00f4tes du Rh\u00f4ne: Explore the vineyards along the Rh\u00f4ne River. \n\u2022 \nGaillac: Discover the unique wines of this lesser-known region. \n\u2022 \nBordeaux: Take a day trip to the world-renowned wine region and visit its prestigious \nch\u00e2teaux. \nCooking Classes \n\u2022 \nProvence: Learn to prepare traditional dishes like ratatouille and bouillabaisse. \n\u2022 \nP\u00e9rigord: Join a tru\ufb04e hunting tour followed by a cooking class. \n\u2022 \nNice: Take a class to master Ni\u00e7oise cuisine, including dishes like salade ni\u00e7oise and \nsocca. \n\u2022 \nToulouse: Learn to cook regional specialties such as cassoulet. \n\u2022 \nMarseille: Participate in a seafood cooking class to make dishes like bouillabaisse. \n\u2022 \nLyon: Discover the secrets of Lyonnaise cuisine with a hands-on cooking class. \n\u2022 \nSarlat: Join a foie gras workshop and learn to prepare this delicacy. \n \n \n"
+    }
+  ]
+}
